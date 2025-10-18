@@ -7,7 +7,6 @@ We took the main concepts of _systemic analysis_, compared them, and defined eac
 
 This is the main Overleaf document, which we used to make the report about the Kaggle competition. https://www.overleaf.com/project/67f5f01d92c80a0d831bfc5e 
 
-
 ## System Design
 Throughout the workshop, we analyzed and developed the architecture of the __KKBOX Music Recommendation System__, guided by the principles of __systemic analysis__. Using the provided datasets, we explored how __users__, __songs__, __listening events__, and __contextual variables__ such as time and source type interact within the system. Our focus was to design an architecture capable of managing _noise_, _missing data_, and _chaotic user behavior_ while maintaining high predictive performance.
 
