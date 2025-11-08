@@ -12,7 +12,7 @@ Throughout the workshop, we analyzed and developed the architecture of the __KKB
 
 The architectural diagrams _Global System and Data Ingestion_ illustrate the modular structure and the interaction between layers such as __Data Management__, __Feature Processing__, __Model Core__, and __Monitoring & Control__. Each layer plays a critical role in ensuring _stability_, _scalability_, and _adaptability_ under real-world streaming conditions.
 
-### Robust System Design and Project Management
+## Robust System Design and Project Management
 
 This stage of the project focuses on strengthening the KKBOX Music Recommendation System through __resilient design__ and __structured management__ practices. The proposed architecture follows a _modular_, _fault-tolerant_ layout that maintains _reliability_ even when facing _noisy data_ or unexpected failures. Using principles from _Six Sigma_ and _ISO 27001_, the system integrates __validation__, __logging__, and __recovery layers__ that safeguard _data integrity_, support _consistent performance_, and ensure _security_ across all processes. _Real-time monitoring_ and _feedback_ mechanisms are incorporated to detect instability early and trigger automated corrections.
 
